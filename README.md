@@ -9,8 +9,8 @@ Este projeto simula o controle de um servomotor usando o Raspberry Pi Pico no Wo
 
 ## Como Executar no Wokwi
 1. Acesse o link do projeto no Wokwi:
-   - **Primeiro código (somente servo):** [Adicionar Link](#)
-   - **Segundo código (servo + LED RGB):** [Adicionar Link](#)
+   - **Primeiro código (somente servo):** https://wokwi.com/projects/422543089010900993(#)
+   - **Segundo código (servo + LED RGB):** [https://wokwi.com/projects/422545334029093889](#)
 2. Faça upload do arquivo `.uf2` gerado pelo compilador Pico SDK.
 3. Clique em **Start Simulation** para iniciar a simulação.
 
